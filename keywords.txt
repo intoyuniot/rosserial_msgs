@@ -1,0 +1,34 @@
+#######################################
+# Syntax Coloring Map For IntoRobot
+#######################################
+
+#######################################
+# Class (KEYWORD1)
+#######################################
+
+TopicInfo  KEYWORD1
+RequestServiceInfo  KEYWORD1
+RequestServiceInfoResponse  KEYWORD1
+RequestServiceInfoRequest  KEYWORD1
+RequestParam  KEYWORD1
+RequestParamResponse  KEYWORD1
+RequestParamRequest  KEYWORD1
+Log  KEYWORD1
+RequestMessageInfoRequest  KEYWORD1
+RequestMessageInfoResponse  KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+# methods names in commond
+begin   KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+getMD5  LITERAL1
+getType  LITERAL1
+deserialize  LITERAL1
+serialize  LITERAL1
